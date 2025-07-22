@@ -39,12 +39,17 @@ I have a strong interest in **Computer Vision, Deep Learning, Vision Transformer
 /portfolio
 │
 ├── index.html
+
 ├── style.css
+
 ├── script.js
-├── images/
+
+├──  assets/
+
 │ └── [project screenshots, profile photo, etc.]
-└── assets/
+
 └── sailaja_resume.pdf
+
 
 
 ---
@@ -65,7 +70,7 @@ I have a strong interest in **Computer Vision, Deep Learning, Vision Transformer
 
 ## 📢 Live Demo
 
-🌐 [View Live Portfolio](https://sailubandi.github.io/portfolio)
+🌐 [View Live Portfolio](https://sailubandi.github.io/Bandi-Poorna-Sri-Sailaja_portfolio/)
 
 ---
 
