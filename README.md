@@ -1,6 +1,8 @@
 ﻿# Bandi-Poorna-Sri-Sailaja_portfolio
-# 🚀 Personal Portfolio – Bandi Poorna Sri Sailaja
+#  Personal Portfolio – Bandi Poorna Sri Sailaja
+## 📢 Live Demo
 
+🌐 [View Live Portfolio](https://sailubandi.github.io/Bandi-Poorna-Sri-Sailaja_portfolio/)
 Welcome to my personal portfolio website!  
 This site showcases my projects, skills, education, resume, and contact details — all in a clean, modern design optimized to attract recruiters and collaborators.
 
@@ -38,6 +40,7 @@ I have a strong interest in **Computer Vision, Deep Learning, Vision Transformer
 
 /portfolio
 │
+
 ├── index.html
 
 ├── style.css
